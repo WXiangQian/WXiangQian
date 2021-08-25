@@ -4,9 +4,9 @@
 
 [https://wxiangqian.blog.csdn.net](https://wxiangqian.blog.csdn.net)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WXiangQian&show_icons=true&theme=dark&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WXiangQian&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=WXiangQian&show_icons=true&theme=dark&count_private=true)
 
 <!--
 **WXiangQian/WXiangQian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

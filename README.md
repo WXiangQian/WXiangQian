@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🇨🇳 China beijing・🕹 php developer
+🇨🇳 China beijing・🕹 php/go developer
 
 [https://wxiangqian.blog.csdn.net](https://wxiangqian.blog.csdn.net)
 
